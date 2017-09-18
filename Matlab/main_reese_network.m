@@ -1,4 +1,4 @@
-%chloe's black belt project, in progress
+%chloe's black belt project, in progress, in collabration
 clearvars -except rawData;
 close all;
 import fun.*;
