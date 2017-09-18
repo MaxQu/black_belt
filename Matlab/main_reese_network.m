@@ -1,3 +1,4 @@
+%chloe's black belt project, in progress
 clearvars -except rawData;
 close all;
 import fun.*;

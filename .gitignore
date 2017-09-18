@@ -3,3 +3,7 @@
 .dropbox
 *Icon*
 */~*
+*.xls
+*.xlsx
+*.xlsm
+*.docx
